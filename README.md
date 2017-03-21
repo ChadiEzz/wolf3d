@@ -2,7 +2,7 @@
 
 Raycasting render engine
 
-"Make" command to compile then "./wolf3d map" to start the game
+"Make" command to compile then "./wolf3d" to start the game
 
 # Keys
 
